@@ -74,7 +74,7 @@
 
   .image-picker img {
     width: 100%;
-    border-radius: $base-border-radius;
+    border-radius: 8px;
   }
 
   .image-picker .btn.choose-image {
